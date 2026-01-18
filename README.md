@@ -36,6 +36,7 @@ This project provides a simple, gamified approach to NGO program management, all
 - Python 3.x  
 - JSON files for data storage (`ngos.json`, `donations.json`)  
 - Matplotlib for visualizing donation trends  
+- requirements.txt for dependency management
 
 ---
 
@@ -114,7 +115,7 @@ python app.py
 
 ## Author
 
-**Team / Developer:** Praveen Adurga  
+**Team:** CodeStorm  
 **Hackathon:** ShikshaLokam Hackathon 2026  
 **Repository:** [GitHub - ngo_wizard](https://github.com/praveenadurga135-commits/ngo_wizard)  
 

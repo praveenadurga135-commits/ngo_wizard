@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Save the Earth",
+        "cause": "Environment",
+        "donations": 50000.0
+    },
+    {
+        "name": "Help Kids",
+        "cause": "Education",
+        "donations": 3000.0
+    },
+    {
+        "name": "Animal Care",
+        "cause": "Animals",
+        "donations": 0
+    },
+    {
+        "name": "\"Save the Children\"",
+        "cause": "Protection and safety of vulnerable children",
+        "donations": 0
+    }
+]

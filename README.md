@@ -21,11 +21,11 @@ This project provides a simple, gamified approach to NGO program management, all
 
 **NGO List Output**  
 
-![NGO List](screenshots/ngo_list.png)  
+![NGO List](ngo_list.png)  
 
 **Top 3 NGOs Chart**  
 
-![Top NGOs Chart](screenshots/top_ngos_chart.png)  
+![Top NGOs Chart](top_ngos_chart.png)  
 
 > *Tip: Run the program to generate real-time charts and donation updates.*
 
